@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-image-demo-valfonso3",
+  "version": "1.0.0",
+  "description": "nodejs image demo valfonso3",
+  "author": "Victor Marcano <victormarcano0@gmail.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
